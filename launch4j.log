@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\nhatb\Desktop\qlqn (1)\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\nhatb\Desktop\qlqn (1)\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\nhatb\Desktop\qlqn (1)\jre\bin\javaw.exe (OK)
+Version string: 1.021.000_003 / 64-Bit (OK)
+Main class:	com.mycompany.qlqn.App
+Info:		Classpath not defined.
+Launcher:	C:\Users\nhatb\Desktop\qlqn (1)\jre\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\nhatb\Desktop\qlqn (1)\app.exe" com.mycompany.qlqn.App
+Args length:	75/32768 chars
+Exit code:	0

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<foods>
+    <Food>
+        <id>1</id>
+        <name>Sting</name>
+        <price>15000.0</price>
+        <qty>11</qty>
+    </Food>
+    <Food>
+        <id>2</id>
+        <name>Sting vang</name>
+        <price>15000.0</price>
+        <qty>5</qty>
+    </Food>
+    <Food>
+        <id>3</id>
+        <name>Thẻ Zing</name>
+        <price>20000.0</price>
+        <qty>4</qty>
+    </Food>
+    <Food>
+        <id>4</id>
+        <name>Mỳ trứng</name>
+        <price>15000.0</price>
+        <qty>3</qty>
+    </Food>
+    <Food>
+        <id>5</id>
+        <name>Thẻ điện thoại</name>
+        <price>20000.0</price>
+        <qty>0</qty>
+    </Food>
+    <Food>
+        <id>6</id>
+        <name>Thẻ điện thoại</name>
+        <price>50000.0</price>
+        <qty>0</qty>
+    </Food>
+    <Food>
+        <id>7</id>
+        <name>Thẻ điện thoại</name>
+        <price>100000.0</price>
+        <qty>5</qty>
+    </Food>
+    <Food>
+        <id>8</id>
+        <name>Thẻ điện thoại</name>
+        <price>200000.0</price>
+        <qty>0</qty>
+    </Food>
+    <Food>
+        <id>9</id>
+        <name>Thẻ điện thoại</name>
+        <price>500000.0</price>
+        <qty>0</qty>
+    </Food>
+    <Food>
+        <id>10</id>
+        <name>Bim bim</name>
+        <price>20000.0</price>
+        <qty>4</qty>
+    </Food>
+    <Food>
+        <id>11</id>
+        <name>7 UP</name>
+        <price>12000.0</price>
+        <qty>0</qty>
+    </Food>
+    <Food>
+        <id>12</id>
+        <name>Coca_Cola</name>
+        <price>12000.0</price>
+        <qty>0</qty>
+    </Food>
+    <Food>
+        <id>13</id>
+        <name>Bánh mỳ</name>
+        <price>15000.0</price>
+        <qty>4</qty>
+    </Food>
+    <bill>0</bill>
+</foods>
