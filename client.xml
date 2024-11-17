@@ -77,7 +77,7 @@
         <balance>1.0E7</balance>
         <discount>0.5</discount>
         <total>1.0E7</total>
-        <isUsed>false</isUsed>
+        <isUsed>true</isUsed>
     </client>
     <client>
         <id>8</id>
@@ -330,6 +330,17 @@
         <balance>0.0</balance>
         <discount>0.0</discount>
         <total>1.0</total>
+        <isUsed>false</isUsed>
+    </client>
+    <client>
+        <id>31</id>
+        <name>Trịnh Trần Phương Tuấn</name>
+        <age>27</age>
+        <gender>Nam</gender>
+        <phone>0222222222</phone>
+        <balance>0.0</balance>
+        <discount>0.0</discount>
+        <total>0.0</total>
         <isUsed>false</isUsed>
     </client>
 </clients>

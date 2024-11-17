@@ -35,14 +35,14 @@
     </computer>
     <computer>
         <id>4</id>
-        <idUser>3</idUser>
+        <idUser>7</idUser>
         <model>com4</model>
         <price>10000.0</price>
         <room>standard1</room>
-        <isUsed>false</isUsed>
-        <user></user>
-        <startedTime>0</startedTime>
-        <leftTime>0</leftTime>
+        <isUsed>true</isUsed>
+        <user>Nghiêm Vũ Hoàng Long</user>
+        <startedTime>1731765581594</startedTime>
+        <leftTime>3600000000</leftTime>
     </computer>
     <computer>
         <id>5</id>

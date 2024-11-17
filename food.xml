@@ -46,7 +46,7 @@
         <id>8</id>
         <name>Thẻ điện thoại</name>
         <price>200000.0</price>
-        <qty>0</qty>
+        <qty>2</qty>
     </Food>
     <Food>
         <id>9</id>
@@ -64,7 +64,7 @@
         <id>11</id>
         <name>7 UP</name>
         <price>12000.0</price>
-        <qty>0</qty>
+        <qty>2</qty>
     </Food>
     <Food>
         <id>12</id>
